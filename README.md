@@ -69,3 +69,14 @@ The goal is to build a regression model that predicts **Salary_USD** and evaluat
 ---
 
 ## 🏗️ Project Structure
+
+├── data/
+│ └── dataset.csv
+├── sql/
+│ └── eda_queries.sql
+├── notebooks/
+│ └── salary_prediction.ipynb
+├── README.md
+└── requirements.txt
+
+
