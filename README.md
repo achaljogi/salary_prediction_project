@@ -84,6 +84,22 @@ The goal is to build a regression model that predicts **Salary_USD** and evaluat
 - End-to-end data pipeline implementation  
 - Using **MySQL for Exploratory Data Analysis** and **Snowflake for cloud data processing**  
 - Building and evaluating a **Machine Learning regression model**  
-- Integrating **Data Engineering + Data Analytics + Machine Learning** in one project  
+- Integrating **Data Engineering + Data Analytics + Machine Learning** in one project
+
+
+## 📌 Future Improvements
+- Keep trying advanced models (Random Forest, XGBoost, etc.)  
+- Add feature engineering for better accuracy  
+- Deploy the model using Flask / FastAPI  
+- Build a dashboard for visualization
+
+
+## 👤 Author
+**Achal Jogi**  
+M.Sc. Bioinformatics | Data Analytics & Machine Learning Enthusiast  
+
+---
+
+⭐ If you like this project, feel free to star the repository!
 
 
