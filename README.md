@@ -82,7 +82,7 @@ The goal is to build a regression model that predicts **Salary_USD** and evaluat
 
 ## 🚀 Key Learnings
 - End-to-end data pipeline implementation  
-- Using **MySQL for EDA** and **Snowflake for cloud data processing**  
+- Using **MySQL for Exploratory Data Analysis** and **Snowflake for cloud data processing**  
 - Building and evaluating a **Machine Learning regression model**  
 - Integrating **Data Engineering + Data Analytics + Machine Learning** in one project  
 
