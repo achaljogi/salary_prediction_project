@@ -10,15 +10,11 @@ Pipeline flow:
 
 The goal is to build a regression model that predicts **Salary_USD** and evaluate its performance using standard metrics.
 
----
-
 ## 🧰 Tools & Technologies
 - **Database:** MySQL, Snowflake  
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
 - **IDE/Tools:** MySQL Workbench, Jupyter Notebook / VS Code  
-
----
 
 ## 📊 Dataset
 - Source: Kaggle Salary Dataset  
